@@ -1,0 +1,9 @@
+shellsort.cpp
+	Algoritmo de ordenação do shellsort com o gap = floor(n/pow(2, p+1))*2+1
+	
+shellsort2.cpp
+	Algoritmo de ordenação do shellsort com o gap = pow(2, p)-1
+	
+quicksort.cpp
+    	Algoritmo de ordenação do quicksort.
+OBS: Para visualização do gráfico do quicksort, executar o makefile.

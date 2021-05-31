@@ -1,0 +1,7 @@
+CreatePuzzle
+    Aqui é realizada o puzzle e sai marcado como forma de gabarito.
+SolvePuzzle
+    O puzzle é zerada na própia função quando é pego do arquivo criado no CreatePuzzle e sai marcado.
+    
+    
+    OBS: Para visualização dos puzzles utilizar o Scripts_T1
